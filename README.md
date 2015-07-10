@@ -3,7 +3,7 @@ Overload your function easi-fastest way
 
 ## Installion
 
-  npm install overl8d
+    npm install overl8d
   
 ## Idea
 
