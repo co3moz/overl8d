@@ -1,0 +1,16 @@
+{
+  "name": "overl8d",
+  "version": "0.0.1",
+  "description": "Overload your function easi-fastest way",
+  "main": "overl8d.js",
+  "keywords": [
+    "overloading",
+    "overload"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/co3moz/overl8d"
+  },
+  "author": "co3moz",
+  "license": "MIT"
+}
