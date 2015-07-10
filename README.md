@@ -9,7 +9,7 @@ Overload your function easi-fastest way
 
 ```javascript
 overl8d(
-  String/*,Type, Type, Type ...*/
+  String,/*Type, Type, Type, ...*/
   function (str) {} /* unnamed callback function */
 )
 ```
